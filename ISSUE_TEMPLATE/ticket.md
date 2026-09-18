@@ -1,3 +1,10 @@
+---
+name: Ticket
+about: Track a product, technical, or maintenance task
+title: ""
+labels: ""
+---
+
 ## Description
 
 _Describe the problem, goal, or work that needs to be completed._
